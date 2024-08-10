@@ -1,4 +1,4 @@
-# 🏡 Welcome to MyProperty - Your Next Home Awaits!
+# 🏡 Welcome to MyProperty 
 
 ## 🚀 About the Project
 
