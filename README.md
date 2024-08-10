@@ -18,7 +18,7 @@ High-quality images, managed via Cloudinary, ensure a visually appealing experie
 
 ## 📚 Tech Stack
 
-Frontend: Next.js
-Backend: Next.js with MongoDB
-Authentication: Google OAuth
-Image Management: Cloudinary
+#### Frontend: Next.js
+#### Backend: Next.js with MongoDB
+#### Authentication: Google OAuth
+#### Image Management: Cloudinary
